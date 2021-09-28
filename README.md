@@ -1,4 +1,4 @@
-# Jogo-da-Memória
+# Jogo da Memória
 ### Etapas do projeto: 
 
 1. Estrutura do tabuleiro completa 
