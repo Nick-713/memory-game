@@ -17,13 +17,13 @@
 
 .card-front {
   background-color:rgb(129, 127, 127);
-  
+  transform: rotateY(180deg);
 }
 
 .card-back {
   background-color: rgb(236, 236, 236);
   font-size: 30px;
-  
+  display: none;
 }
 
 
