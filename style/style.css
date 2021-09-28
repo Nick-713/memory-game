@@ -46,7 +46,7 @@
   background-color: rgba(0, 0, 0,0.9);
   color: white;
   font-size: 50px;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -62,3 +62,6 @@
   margin-top: 20px;
 }
 
+#gameBoard {
+  background-color:rebeccapurple;
+}
