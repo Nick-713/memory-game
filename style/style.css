@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
   width: 150px;
   height: 150px;
@@ -64,4 +70,5 @@
 
 #gameBoard {
   background-color:rebeccapurple;
+  max-width: 700px;
 }
