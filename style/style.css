@@ -1,11 +1,13 @@
 .card {
   width: 150px;
   height: 150px;
+  position: relative;
 }
 
 .card-front, .card-back {
   width: 100%;
   height: 100%;  
+  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center; 
@@ -15,11 +17,13 @@
 
 .card-front {
   background-color:rgb(129, 127, 127);
+  
 }
 
 .card-back {
   background-color: rgb(236, 236, 236);
   font-size: 30px;
+  
 }
 
 
