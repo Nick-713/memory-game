@@ -1,6 +1,6 @@
 # Jogo da Memória
-### Etapas do projeto: 
+## Etapas do projeto: 
 
-1. Estrutura do tabuleiro completa 
+### Estrutura do tabuleiro completa 
   ![image](public/images/estrutura-tabuleiro.png)
 
